@@ -1,0 +1,92 @@
+{
+    "Facet": [
+	"search_terms",
+	"overall_tag",
+	"data_source",
+	"dataset_name",
+	"username",
+	"fullname",
+	"user_id",
+	"reply_to_user",
+	"reply_to_uid",
+	"mention_names",
+	"mention_uids"
+  ],
+    "Merge Categorical": [
+	"search_terms",
+	"dataset_name",
+	"overall_tag"
+    ],
+    "Searchable": [
+	"tweet_text",
+	"tweet_time",
+	"username",
+	"fullname",
+	"user_id",
+	"reply_to_user",
+	"reply_to_uid",
+	"mention_names",
+	"mention_uids"
+	],
+    "In Search Results": [
+	"tweet_text",
+	"search_terms",
+	"overall_tag",
+	"data_source",
+	"tweet_time",
+	"tweet_link",
+	"dataset_name",
+	"username",
+	"fullname",
+	"user_id",
+	"reply_to_user",
+	"reply_to_uid",
+	"retweet_count",
+	"favorite_count",
+	"reply_count",
+	"mention_names",
+	"mention_uids"
+	],
+    "In Search Results by Default": [
+	"tweet_text",
+	"search_terms",
+	"overall_tag",
+	"data_source",
+	"tweet_time",
+	"tweet_link",
+	"dataset_name",
+	"username",
+	"fullname",
+	"user_id",
+	"reply_to_user",
+	"reply_to_uid",
+	"retweet_count",
+	"favorite_count",
+	"reply_count",
+	"mention_names",
+	"mention_uids"
+  ],
+    "On Doc Page": [
+	"tweet_text",
+	"search_terms",
+	"overall_tag",
+	"data_source",
+	"tweet_time",
+	"tweet_link",
+	"dataset_name",
+	"username",
+	"fullname",
+	"user_id",
+	"reply_to_user",
+	"reply_to_uid",
+	"retweet_count",
+	"favorite_count",
+	"reply_count",
+	"mention_names",
+	"mention_uids"
+  ],
+  "Item Field": [
+  ],
+    "Truncate Text": [
+  ]
+}

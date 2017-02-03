@@ -1,0 +1,9 @@
+{
+  "Path Type": "Directory",
+  "Path": "/path/to/data",
+  "Index Name": "twitter_harvester",
+  "Dataset Name": "Twitter",
+  "Ignore Dir Import Ext": "_terms.json",
+  "Sort Field": "",
+  "Show Sort Field": "tweet_time"
+}
