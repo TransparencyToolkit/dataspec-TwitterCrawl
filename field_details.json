@@ -41,7 +41,7 @@
     },{
     "Field Name": "tweet_time",
     "Human Readable Name": "Tweet Time",
-    "Type": "Date",
+    "Type": "DateTime",
     "Display Type": "Date",
     "Mapping": "not_analyzed",
     "Form Params": [
