@@ -19,7 +19,7 @@
     ],
     "Searchable": [
 	"tweet_text",
-	"tweet_time",
+	"date_searchable",
 	"username",
 	"fullname",
 	"user_id",

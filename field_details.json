@@ -64,7 +64,21 @@
     ],
     "Location": "3",
     "Icon": ""
-  },{
+    },
+    {
+	"Field Name": "date_searchable",
+	"Human Readable Name": "Date",
+	"Type": "Date",
+	"Display Type": "Date",
+	"Mapping": "not_analyzed",
+	"Form Params": [
+	    "date_searchable",
+	    "end_date_searchable"
+	],
+	"Location": "3",
+	"Icon": ""
+    },
+    {
     "Field Name": "tweet_link",
     "Human Readable Name": "Tweet Link",
     "Type": "String",
