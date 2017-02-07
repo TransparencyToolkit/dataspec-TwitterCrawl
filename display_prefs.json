@@ -45,7 +45,8 @@
 	"favorite_count",
 	"reply_count",
 	"mention_names",
-	"mention_uids"
+	"mention_uids",
+	"time_collected"
 	],
     "In Search Results by Default": [
 	"tweet_text",
@@ -64,7 +65,8 @@
 	"favorite_count",
 	"reply_count",
 	"mention_names",
-	"mention_uids"
+	"mention_uids",
+	"time_collected"
   ],
     "On Doc Page": [
 	"tweet_text",
@@ -83,7 +85,8 @@
 	"favorite_count",
 	"reply_count",
 	"mention_names",
-	"mention_uids"
+	"mention_uids",
+	"time_collected"
   ],
   "Item Field": [
   ],

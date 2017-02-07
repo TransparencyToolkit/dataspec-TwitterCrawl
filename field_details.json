@@ -38,7 +38,21 @@
 	"Form Params": "data_source",
 	"Location": "30",
 	"Icon": "analysis"
-    },{
+    },
+    {
+	"Field Name": "time_collected",
+	"Human Readable Name": "Time Collected",
+	"Type": "DateTime",
+	"Display Type": "Date",
+	"Mapping": "not_analyzed",
+	"Form Params": [
+	    "time_collected",
+	    "end_time_collected"
+	],
+	"Location": "4",
+	"Icon": ""
+    },
+    {
     "Field Name": "tweet_time",
     "Human Readable Name": "Tweet Time",
     "Type": "DateTime",
