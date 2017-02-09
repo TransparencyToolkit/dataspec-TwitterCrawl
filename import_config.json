@@ -3,7 +3,7 @@
   "Ignore List": "",
   "ID Field": "tweet_link",
   "Secondary ID": [],
-    "Deduplicate Ignore": ["categories", "search_terms", "search_terms_facet", "doc_modified", "doc_modified_facet", "data_source", "data_source_facet", "updated_at", "dataset_name", "dataset_name_facet", "overall_tag", "overall_tag_facet", "retweet_count", "favorite_count", "reply_count"],
+    "Deduplicate Ignore": ["categories", "search_terms", "search_terms_facet", "doc_modified", "doc_modified_facet", "data_source", "data_source_facet", "updated_at", "dataset_name", "dataset_name_facet", "overall_tag", "overall_tag_facet", "retweet_count", "favorite_count", "reply_count", "time_collected"],
   "Deduplicate Prioritize": "tweet_time",
   "Get ID After": "twitter.com/"
 }
