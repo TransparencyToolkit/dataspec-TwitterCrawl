@@ -110,6 +110,26 @@
 	"Icon": "analysis"
     },
     {
+	"Field Name": "catalyst_termcategory",
+	"Human Readable Name": "Topic",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "english",
+	"Form Params": "catalyst_termcategory",
+	"Location": "2",
+	"Icon": "analysis"
+    },
+    {
+	"Field Name": "catalyst_termlist",
+	"Human Readable Name": "Terms",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "english",
+	"Form Params": "catalyst_termlist",
+	"Location": "2",
+	"Icon": "analysis"
+    },
+    {
 	"Field Name": "time_collected",
 	"Human Readable Name": "Time Collected",
 	"Type": "DateTime",

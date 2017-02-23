@@ -1,7 +1,7 @@
 {
   "Path Type": "Directory",
-  "Path": "/path/to/data",
-  "Index Name": "harvester_twitter",
+  "Path": "/home/shidash/Data/catalyst_test_data",
+  "Index Name": "twitter_catalyst_test",
   "Dataset Name": "Twitter",
   "Ignore Dir Import Ext": "_terms.json",
   "Sort Field": "",
