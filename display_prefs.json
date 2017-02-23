@@ -15,7 +15,9 @@
 	"catalyst_sentiment",
 	"catalyst_people",
 	"catalyst_organizations",
-	"catalyst_language"
+	"catalyst_language",
+	"catalyst_termlist",
+	"catalyst_termcategory"
   ],
     "Merge Categorical": [
 	"search_terms",
@@ -57,6 +59,8 @@
 	"catalyst_people",
 	"catalyst_organizations",
 	"catalyst_language",
+	"catalyst_termlist",
+	"catalyst_termcategory",
 	"hashtags",
 	"profile_pic"
 	],
@@ -83,6 +87,8 @@
 	"catalyst_people",
 	"catalyst_organizations",
 	"catalyst_language",
+	"catalyst_termlist",
+	"catalyst_termcategory",
 	"hashtags",
 	"profile_pic"
   ],
@@ -109,6 +115,8 @@
 	"catalyst_people",
 	"catalyst_organizations",
 	"catalyst_language",
+	"catalyst_termlist",
+	"catalyst_termcategory",
 	"hashtags",
 	"profile_pic",
 	"mentioned_urls"
