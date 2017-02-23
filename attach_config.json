@@ -1,10 +1,10 @@
 {
-  "Image Path Prefix": "",
+  "Image Path Prefix": "profile_pic",
   "Show PDF?": "No",
   "Local or Remote File": "local",
   "File Path Prefix": "",
   "File Path Attr": "",
   "Show Webpage?": "Yes",
-    "Web URL": "tweet_link",
+    "Web URL": "mentioned_urls",
     "Tab Order": ["text", "articles"]
 }

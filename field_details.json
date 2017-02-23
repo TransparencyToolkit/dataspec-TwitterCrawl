@@ -10,6 +10,36 @@
     "Icon": ""
   },
     {
+	"Field Name": "profile_pic",
+	"Human Readable Name": "Picture",
+	"Type": "String",
+	"Display Type": "Picture",
+	"Mapping": "not_analyzed",
+	"Form Params": "profile_pic",
+	"Location": "15",
+	"Icon": ""
+    },
+    {
+	"Field Name": "hashtags",
+	"Human Readable Name": "Hashtags",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "english",
+	"Form Params": "hashtags",
+	"Location": "28",
+	"Icon": "document-topic"
+    },
+    {
+	"Field Name": "mentioned_urls",
+	"Human Readable Name": "Tweeted Links",
+	"Form Params": "",
+	"Location": "12",
+	"Icon": "",
+	"Display Type": "Link",
+	"Type": "String",
+	"Mapping": "not_analyzed"
+    },
+    {
 	"Field Name": "search_terms",
 	"Human Readable Name": "Selectors",
 	"Type": "String",
@@ -37,6 +67,36 @@
 	"Mapping": "not_analyzed",
 	"Form Params": "data_source",
 	"Location": "30",
+	"Icon": "analysis"
+    },
+    {
+	"Field Name": "catalyst_sentiment",
+	"Human Readable Name": "Sentiment",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "catalyst_sentiment",
+	"Location": "2",
+	"Icon": "analysis"
+    },
+    {
+	"Field Name": "catalyst_people",
+	"Human Readable Name": "People",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "english",
+	"Form Params": "catalyst_people",
+	"Location": "2",
+	"Icon": "analysis"
+    },
+    {
+	"Field Name": "catalyst_organizations",
+	"Human Readable Name": "Organizations",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "english",
+	"Form Params": "catalyst_organizations",
+	"Location": "2",
 	"Icon": "analysis"
     },
     {

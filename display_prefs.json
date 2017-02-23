@@ -10,7 +10,11 @@
 	"reply_to_user",
 	"reply_to_uid",
 	"mention_names",
-	"mention_uids"
+	"mention_uids",
+	"hashtags",
+	"catalyst_sentiment",
+	"catalyst_people",
+	"catalyst_organizations"
   ],
     "Merge Categorical": [
 	"search_terms",
@@ -26,7 +30,8 @@
 	"reply_to_user",
 	"reply_to_uid",
 	"mention_names",
-	"mention_uids"
+	"mention_uids",
+	"hashtags"
 	],
     "In Search Results": [
 	"tweet_text",
@@ -46,7 +51,12 @@
 	"reply_count",
 	"mention_names",
 	"mention_uids",
-	"time_collected"
+	"time_collected",
+	"catalyst_sentiment",
+	"catalyst_people",
+	"catalyst_organizations",
+	"hashtags",
+	"profile_pic"
 	],
     "In Search Results by Default": [
 	"tweet_text",
@@ -66,7 +76,12 @@
 	"reply_count",
 	"mention_names",
 	"mention_uids",
-	"time_collected"
+	"time_collected",
+	"catalyst_sentiment",
+	"catalyst_people",
+	"catalyst_organizations",
+	"hashtags",
+	"profile_pic"
   ],
     "On Doc Page": [
 	"tweet_text",
@@ -86,7 +101,13 @@
 	"reply_count",
 	"mention_names",
 	"mention_uids",
-	"time_collected"
+	"time_collected",
+	"catalyst_sentiment",
+	"catalyst_people",
+	"catalyst_organizations",
+	"hashtags",
+	"profile_pic",
+	"mentioned_urls"
   ],
   "Item Field": [
   ],
