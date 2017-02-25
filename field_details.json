@@ -80,6 +80,16 @@
 	"Icon": "analysis"
     },
     {
+	"Field Name": "catalyst_naivebayes",
+	"Human Readable Name": "Naive Bayes",
+	"Type": "String",
+	"Display Type": "Category",
+	"Mapping": "not_analyzed",
+	"Form Params": "catalyst_naivebayes",
+	"Location": "2",
+	"Icon": "analysis"
+    },
+    {
 	"Field Name": "catalyst_language",
 	"Human Readable Name": "Language",
 	"Type": "String",
