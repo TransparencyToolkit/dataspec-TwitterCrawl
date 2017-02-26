@@ -4,12 +4,11 @@
     "Human Readable Name": "Tweet Text",
     "Type": "String",
     "Form Params": "tweet_text",
-      "Location": "0",
-      "Mapping": "english",
+    "Location": "0",
+    "Mapping": "english",
     "Display Type": "Title",
     "Icon": ""
-  },
-    {
+  },{
 	"Field Name": "profile_pic",
 	"Human Readable Name": "Picture",
 	"Type": "String",
@@ -18,8 +17,7 @@
 	"Form Params": "profile_pic",
 	"Location": "15",
 	"Icon": ""
-    },
-    {
+  },{
 	"Field Name": "hashtags",
 	"Human Readable Name": "Hashtags",
 	"Type": "String",
@@ -28,8 +26,7 @@
 	"Form Params": "hashtags",
 	"Location": "28",
 	"Icon": "document-topic"
-    },
-    {
+  },{
 	"Field Name": "mentioned_urls",
 	"Human Readable Name": "Tweeted Links",
 	"Form Params": "",
@@ -38,8 +35,7 @@
 	"Display Type": "Link",
 	"Type": "String",
 	"Mapping": "not_analyzed"
-    },
-    {
+  },{
 	"Field Name": "search_terms",
 	"Human Readable Name": "Selectors",
 	"Type": "String",
@@ -48,8 +44,7 @@
 	"Form Params": "search_terms",
 	"Location": "28",
 	"Icon": "document-topic"
-    },
-    {
+  },{
 	"Field Name": "overall_tag",
 	"Human Readable Name": "Tag",
 	"Type": "String",
@@ -58,8 +53,7 @@
 	"Form Params": "overall_tag",
 	"Location": "29",
 	"Icon": "document-topic"
-    },
-    {
+  },{
 	"Field Name": "data_source",
 	"Human Readable Name": "Data Source",
 	"Type": "String",
@@ -68,8 +62,7 @@
 	"Form Params": "data_source",
 	"Location": "30",
 	"Icon": "analysis"
-    },
-    {
+  },{
 	"Field Name": "catalyst_sentiment",
 	"Human Readable Name": "Sentiment",
 	"Type": "String",
@@ -78,8 +71,7 @@
 	"Form Params": "catalyst_sentiment",
 	"Location": "2",
 	"Icon": "analysis"
-    },
-    {
+  },{
 	"Field Name": "catalyst_language",
 	"Human Readable Name": "Language",
 	"Type": "String",
@@ -88,8 +80,7 @@
 	"Form Params": "catalyst_language",
 	"Location": "2",
 	"Icon": "analysis"
-    },
-    {
+  },{
 	"Field Name": "catalyst_people",
 	"Human Readable Name": "People",
 	"Type": "String",
@@ -98,8 +89,7 @@
 	"Form Params": "catalyst_people",
 	"Location": "2",
 	"Icon": "analysis"
-    },
-    {
+  },{
 	"Field Name": "catalyst_organizations",
 	"Human Readable Name": "Organizations",
 	"Type": "String",
@@ -108,21 +98,19 @@
 	"Form Params": "catalyst_organizations",
 	"Location": "2",
 	"Icon": "analysis"
-    },
-    {
+  },{
 	"Field Name": "time_collected",
 	"Human Readable Name": "Time Collected",
 	"Type": "DateTime",
 	"Display Type": "Date",
 	"Mapping": "not_analyzed",
 	"Form Params": [
-	    "time_collected",
-	    "end_time_collected"
+	  "time_collected",
+	  "end_time_collected"
 	],
 	"Location": "4",
 	"Icon": ""
-    },
-    {
+  },{
     "Field Name": "tweet_time",
     "Human Readable Name": "Tweet Time",
     "Type": "DateTime",
@@ -134,21 +122,19 @@
     ],
     "Location": "3",
     "Icon": ""
-    },
-    {
+  },{
 	"Field Name": "date_searchable",
 	"Human Readable Name": "Date",
 	"Type": "Date",
 	"Display Type": "Date",
 	"Mapping": "not_analyzed",
 	"Form Params": [
-	    "date_searchable",
-	    "end_date_searchable"
+	  "date_searchable",
+	  "end_date_searchable"
 	],
 	"Location": "3",
 	"Icon": ""
-    },
-    {
+  },{
     "Field Name": "tweet_link",
     "Human Readable Name": "Tweet Link",
     "Type": "String",
@@ -159,111 +145,121 @@
     "Link": "mult_items",
     "Icon": ""
   },{
-      "Field Name": "dataset_name",
-      "Human Readable Name": "Collection",
-      "Type": "String",
-      "Display Type": "Category",
-      "Mapping": "not_analyzed",
-      "Form Params": "dataset_name",
-      "Location": "27",
-      "Icon": "document-topic"
+    "Field Name": "dataset_name",
+    "Human Readable Name": "Collection",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "not_analyzed",
+    "Form Params": "dataset_name",
+    "Location": "27",
+    "Icon": "document-topic"
   },{
-      "Field Name": "username",
-      "Human Readable Name": "Username",
-      "Type": "String",
-      "Display Type": "Category",
-      "Form Params": "username",
-      "Location": "28",
-      "Mapping": "english",
-      "Icon": "document-topic"
+    "Field Name": "username",
+    "Human Readable Name": "Username",
+    "Type": "String",
+    "Display Type": "Category",
+    "Form Params": "username",
+    "Location": "28",
+    "Mapping": "english",
+    "Icon": "document-topic"
   },{
-      "Field Name": "fullname",
-      "Human Readable Name": "Name",
-      "Type": "String",
-      "Display Type": "Category",
-      "Form Params": "fullname",
-      "Location": "29",
-      "Mapping": "english",
-      "Icon": "document-topic"
-  },
-  {
-      "Field Name": "user_id",
-      "Human Readable Name": "User ID",
-      "Type": "String",
-      "Display Type": "Category",
-      "Form Params": "user_id",
-      "Location": "30",
-      "Mapping": "english",
-      "Icon": "document-topic"
-  },
-    {
-	"Field Name": "reply_to_user",
-	"Human Readable Name": "Reply To Users",
+    "Field Name": "fullname",
+    "Human Readable Name": "Name",
+    "Type": "String",
+    "Display Type": "Category",
+    "Form Params": "fullname",
+    "Location": "29",
+    "Mapping": "english",
+    "Icon": "document-topic"
+  },{
+    "Field Name": "user_id",
+    "Human Readable Name": "User ID",
+    "Type": "String",
+    "Display Type": "Category",
+    "Form Params": "user_id",
+    "Location": "30",
+    "Mapping": "english",
+    "Icon": "document-topic"
+  },{
+	"Field Name": "conversation_id",
+	"Human Readable Name": "Conversation Tweet",
 	"Type": "String",
 	"Display Type": "Category",
-	"Form Params": "reply_to_user",
+	"Form Params": "conversation_id",
 	"Location": "31",
 	"Mapping": "english",
 	"Icon": "document-topic"
-    },
-    {
+  },{
+	"Field Name": "is_reply_to",
+	"Human Readable Name": "Is a Reply",
+	"Type": "String",
+	"Display Type": "Category",
+	"Form Params": "is_reply_to",
+	"Location": "32",
+	"Mapping": "english",
+	"Icon": "document-topic"
+  },{
+	"Field Name": "reply_to_user",
+	"Human Readable Name": "Replied To",
+	"Type": "String",
+	"Display Type": "Category",
+	"Form Params": "reply_to_user",
+	"Location": "32",
+	"Mapping": "english",
+	"Icon": "document-topic"
+  },{
 	"Field Name": "reply_to_uid",
 	"Human Readable Name": "Reply To UIDs",
 	"Type": "String",
 	"Display Type": "Category",
 	"Form Params": "reply_to_uid",
-	"Location": "32",
+	"Location": "33",
 	"Mapping": "english",
 	"Icon": "document-topic"
-    },
-    {
+  },{
 	"Field Name": "retweet_count",
 	"Human Readable Name": "Retweet Count",
 	"Type": "String",
 	"Display Type": "Short Text",
 	"Form Params": "retweet_count",
-	"Location": "33",
+	"Location": "34",
 	"Mapping": "not_analyzed",
 	"Icon": "document-topic"
-    },
-    {
+  },{
 	"Field Name": "favorite_count",
 	"Human Readable Name": "Favorite Count",
 	"Type": "String",
 	"Display Type": "Short Text",
 	"Form Params": "favorite_count",
-	"Location": "34",
+	"Location": "35",
 	"Mapping": "not_analyzed",
 	"Icon": "document-topic"
-    },
-    {
+  },{
 	"Field Name": "reply_count",
 	"Human Readable Name": "Reply Count",
 	"Type": "String",
 	"Display Type": "Short Text",
 	"Form Params": "reply_count",
-	"Location": "35",
+	"Location": "36",
 	"Mapping": "not_analyzed",
 	"Icon": "document-topic"
-    },
-    {
+  },{
 	"Field Name": "mention_names",
 	"Human Readable Name": "Mentioned Names",
 	"Type": "String",
 	"Display Type": "Category",
 	"Form Params": "mention_names",
-	"Location": "36",
+	"Location": "37",
 	"Mapping": "english",
 	"Icon": "document-topic"
-    },
-    {
+  },{
 	"Field Name": "mention_uids",
 	"Human Readable Name": "Mentioned UIDs",
 	"Type": "String",
 	"Display Type": "Category",
 	"Form Params": "mention_uids",
-	"Location": "37",
+	"Location": "38",
 	"Mapping": "english",
 	"Icon": "document-topic"
-    }
+  }
 ]

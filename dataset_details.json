@@ -1,6 +1,6 @@
 {
   "Path Type": "Directory",
-  "Path": "/path/to/data",
+  "Path": "/home/user/Data/AC/",
   "Index Name": "harvester_twitter",
   "Dataset Name": "Twitter",
   "Ignore Dir Import Ext": "_terms.json",
