@@ -16,7 +16,8 @@
 	"catalyst_language",
 	"catalyst_termlist",
 	"catalyst_termcategory",
-	"catalyst_naivebayes",
+        "catalyst_naivebayes",
+        "catalyst_tfidfclassify",
 	"catalyst_regex"
   ],
   "Merge Categorical": [
@@ -66,7 +67,8 @@
 	"catalyst_language",
 	"catalyst_termlist",
 	"catalyst_termcategory",
-	"catalyst_naivebayes",
+      "catalyst_naivebayes",
+      "catalyst_tfidfclassify",
 	"catalyst_regex",
 	"hashtags",
 	"profile_pic"
@@ -99,7 +101,8 @@
 	"catalyst_language",
 	"catalyst_termlist",
 	"catalyst_termcategory",
-	"catalyst_naivebayes",
+      "catalyst_naivebayes",
+      "catalyst_tfidfclassify",
 	"catalyst_regex",
 	"hashtags",
 	"profile_pic"
@@ -131,7 +134,8 @@
 	"catalyst_language",
 	"catalyst_termlist",
 	"catalyst_termcategory",
-	"catalyst_naivebayes",
+      "catalyst_naivebayes",
+      "catalyst_tfidfclassify",
 	"catalyst_regex",
 	"hashtags",
 	"profile_pic",

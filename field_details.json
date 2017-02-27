@@ -90,6 +90,15 @@
 	"Location": "2",
 	"Icon": "analysis"
   },{
+      "Field Name": "catalyst_tfidfclassify",
+      "Human Readable Name": "TF-IDF Classifier",
+      "Type": "String",
+      "Display Type": "Category",
+      "Mapping": "not_analyzed",
+      "Form Params": "catalyst_tfidfclassify",
+      "Location": "2",
+      "Icon": "analysis"
+  },{
 	"Field Name": "catalyst_language",
 	"Human Readable Name": "Language",
 	"Type": "String",
